@@ -2,7 +2,10 @@
 
 ###  helloworld
  the basic code
-1.hello.c
-2.list_all_devs.c
-3.find_first_dev.c
+
+* hello.c
+* list_all_devs.c
+* find_first_dev.c
+* find_net_info.c
+
 
