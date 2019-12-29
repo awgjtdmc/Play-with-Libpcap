@@ -1,6 +1,6 @@
 # Play-with-Libpcap
 
-###  helloworld
+###  hello
  the basic code
 
 * hello.c
